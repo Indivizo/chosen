@@ -3,6 +3,7 @@ node_modules
 .project
 public/*.js
 public/*.css
+public/*.map
 public/bower.json
 chosen.zip
 .sass-cache
